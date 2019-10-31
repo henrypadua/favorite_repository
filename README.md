@@ -1,7 +1,10 @@
-# favorite_repository
-Busca repositórios do GitHub.
+# Favorite Repository GitHub
+> Busca repositórios do GitHub.
 
-Utilizando <br>
--> ReactJS <br>
--> Redux <br>
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
+## Ferramentas utilizadas
+
+-> ReactJS
+-> Redux
 -> Saga
