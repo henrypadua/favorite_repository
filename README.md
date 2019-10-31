@@ -1,7 +1,7 @@
 # favorite_repository
 Busca repositórios do GitHub.
 
-Utilizando
--> ReactJS
--> Redux
+Utilizando <br>
+-> ReactJS <br>
+-> Redux <br>
 -> Saga
