@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
-import * as FavoriteActions from '../../store/actions/favorites';
+import { Creators as FavoriteActions } from '../../store/ducks/favorites';
 
 class Main extends Component {
   static propTypes = {
@@ -18,7 +18,7 @@ class Main extends Component {
           url: PropTypes.string
         })
       ),
-      error: PropTypes.oneOfType(null, PropTypes.string)
+      error: PropTypes.string
     }).isRequired
   };
 
